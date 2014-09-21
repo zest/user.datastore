@@ -1,6 +1,6 @@
 {
     "name": "user.datastore",
-    "description": "user.datastore is a user component for soul that manages users in a datastore component",
+    "description": "user.datastore is a user component for zest that manages users in a datastore component",
     "version": "0.0.1",
     "main": "./lib/index",
     "private": true,
